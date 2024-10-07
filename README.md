@@ -1,5 +1,5 @@
 ## MaximSkutsim👋
--->
+---
 
 <!--
 **MaximSkutsim/MaximSkutsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-№#Проекты
--->
+##Проекты
+---
 
 ## [Система управления запасами](https://github.com/MaximSkutsim/sales-forecasting)
 Система управления запасами
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 https://github.com/MaximSkutsim/sales-forecasting
 
 
-##№ [Semantic Notes Search](https://github.com/MaximSkutsim/semantic-notes-search)
+## [Semantic Notes Search](https://github.com/MaximSkutsim/semantic-notes-search)
 
 Приложение на основе FastAPI для семантического поиска по текстовым заметкам с использованием современных моделей трансформеров. Проект позволяет пользователям управлять заметками и выполнять семантический поиск по их содержимому.
 https://github.com/MaximSkutsim/semantic-notes-search
