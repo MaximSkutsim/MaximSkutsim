@@ -5,7 +5,7 @@
 
 ## Проекты
 
-## ![Система управления запасами](https://img.shields.io/badge/Система%20управления%20запасами-090909?style=flat-square&logo=GitHub) [Система управления запасами]
+## ![Система управления запасами](https://img.shields.io/badge/Система%20управления%20запасами-090909?style=flat-square&logo=GitHub)
 ![Python](https://img.shields.io/badge/Python%203.8%2B-090909?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=flat-square&logo=fastapi)
 ![pandas](https://img.shields.io/badge/pandas-090909?style=flat-square&logo=pandas)
@@ -18,24 +18,24 @@
 
 Система управления запасами
 Система машинного обучения для прогнозирования спроса и управления запасами. Система предоставляет квантильные прогнозы будущего спроса, помогая оптимизировать уровни запасов и снизить как дефицит, так и избыток товаров.
-https://github.com/MaximSkutsim/sales-forecasting
 
 
 
 
 
-### ![Semantic Notes Search](https://img.shields.io/badge/Semantic%20Notes%20Search-090909?style=flat-square&logo=GitHub) [Semantic Notes Search](https://github.com/MaximSkutsim/semantic-notes-search)
-![Python](https://img.shields.io/badge/Python%203.8%2B-090909?style=flat-square&logo=python) [Python 3.8+](https://www.python.org/)
-![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=flat-square&logo=fastapi) [FastAPI](https://fastapi.tiangolo.com/)
-![PyTorch](https://img.shields.io/badge/PyTorch-090909?style=flat-square&logo=pytorch) [PyTorch](https://pytorch.org/)
-![Transformers](https://img.shields.io/badge/Transformers-090909?style=flat-square&logo=Hugging%20Face) [Transformers (Hugging Face)](https://huggingface.co/docs/transformers)
+
+### ![Semantic Notes Search](https://img.shields.io/badge/Semantic%20Notes%20Search-090909?style=flat-square&logo=GitHub)
+![Python](https://img.shields.io/badge/Python%203.8%2B-090909?style=flat-square&logo=python) 
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=flat-square&logo=fastapi) 
+![PyTorch](https://img.shields.io/badge/PyTorch-090909?style=flat-square&logo=pytorch)
+![Transformers](https://img.shields.io/badge/Transformers-090909?style=flat-square&logo=Hugging%20Face)
 ![NetworkX](https://img.shields.io/badge/NetworkX-090909?style=flat-square) [NetworkX](https://networkx.org/)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=flat-square&logo=scikit-learn) [Scikit-learn](https://scikit-learn.org/)
-![NumPy](https://img.shields.io/badge/numpy-090909?style=flat-square&logo=numpy) [NumPy](https://numpy.org/)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=flat-square&logo=scikit-learn) 
+![NumPy](https://img.shields.io/badge/numpy-090909?style=flat-square&logo=numpy)
 
 
 Приложение на основе FastAPI для семантического поиска по текстовым заметкам с использованием современных моделей трансформеров. Проект позволяет пользователям управлять заметками и выполнять семантический поиск по их содержимому.
-https://github.com/MaximSkutsim/semantic-notes-search
+
 
 
 ## HARD SKILLS
