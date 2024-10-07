@@ -1,10 +1,10 @@
 ## MaximSkutsim👋
----
+
 
 
 
 ## Проекты
----
+
 
 
 ### [Система управления запасами](https://github.com/MaximSkutsim/sales-forecasting)
