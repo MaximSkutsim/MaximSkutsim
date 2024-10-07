@@ -5,14 +5,14 @@
 
 ## Проекты
 
-### ![Система управления запасами](https://img.shields.io/badge/Система%20управления%20запасами-090909?style=flat-square&logo=GitHub) [Система управления запасами](https://github.com/MaximSkutsim/sales-forecasting)
+## ![Система управления запасами](https://img.shields.io/badge/Система%20управления%20запасами-090909?style=flat-square&logo=GitHub) [Система управления запасами]
 ![Python](https://img.shields.io/badge/Python%203.8%2B-090909?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=flat-square&logo=fastapi)
 ![pandas](https://img.shields.io/badge/pandas-090909?style=flat-square&logo=pandas)
 ![numpy](https://img.shields.io/badge/numpy-090909?style=flat-square&logo=numpy)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=flat-square&logo=scikit-learn)
 ![ClearML](https://img.shields.io/badge/ClearML-090909?style=flat-square&logo=clearml)
-![PuLP](https://img.shields.io/badge/PuLP-090909?style=flat-square) [PuLP]
+![PuLP](https://img.shields.io/badge/PuLP-090909?style=flat-square)
 ![uvicorn](https://img.shields.io/badge/uvicorn-090909?style=flat-square)
 
 
