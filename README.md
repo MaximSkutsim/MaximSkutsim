@@ -6,14 +6,14 @@
 ## Проекты
 
 ### ![Система управления запасами](https://img.shields.io/badge/Система%20управления%20запасами-090909?style=flat-square&logo=GitHub) [Система управления запасами](https://github.com/MaximSkutsim/sales-forecasting)
-![Python](https://img.shields.io/badge/Python%203.8%2B-090909?style=flat-square&logo=python))
-![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=flat-square&logo=fastapi) [FastAPI](https://fastapi.tiangolo.com/)
-![pandas](https://img.shields.io/badge/pandas-090909?style=flat-square&logo=pandas) [pandas](https://pandas.pydata.org/)
-![numpy](https://img.shields.io/badge/numpy-090909?style=flat-square&logo=numpy) [numpy](https://numpy.org/)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=flat-square&logo=scikit-learn) [scikit-learn](https://scikit-learn.org/)
-![ClearML](https://img.shields.io/badge/ClearML-090909?style=flat-square&logo=clearml) [ClearML](https://clear.ml/)
-![PuLP](https://img.shields.io/badge/PuLP-090909?style=flat-square) [PuLP](https://coin-or.github.io/pulp/)
-![uvicorn](https://img.shields.io/badge/uvicorn-090909?style=flat-square) [uvicorn](https://www.uvicorn.org/)
+![Python](https://img.shields.io/badge/Python%203.8%2B-090909?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=flat-square&logo=fastapi)
+![pandas](https://img.shields.io/badge/pandas-090909?style=flat-square&logo=pandas)
+![numpy](https://img.shields.io/badge/numpy-090909?style=flat-square&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=flat-square&logo=scikit-learn)
+![ClearML](https://img.shields.io/badge/ClearML-090909?style=flat-square&logo=clearml)
+![PuLP](https://img.shields.io/badge/PuLP-090909?style=flat-square) [PuLP]
+![uvicorn](https://img.shields.io/badge/uvicorn-090909?style=flat-square)
 
 
 Система управления запасами
