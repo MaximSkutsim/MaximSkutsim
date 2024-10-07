@@ -14,6 +14,8 @@ https://github.com/MaximSkutsim/sales-forecasting
 
 
 
+
+
 ### [Semantic Notes Search](https://github.com/MaximSkutsim/semantic-notes-search)
 
 Приложение на основе FastAPI для семантического поиска по текстовым заметкам с использованием современных моделей трансформеров. Проект позволяет пользователям управлять заметками и выполнять семантический поиск по их содержимому.
